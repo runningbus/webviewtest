@@ -1,0 +1,13 @@
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\bin\Debug\netstandard2.0\BrowserApp.deps.json
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\bin\Debug\netstandard2.0\BrowserApp.dll
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\bin\Debug\netstandard2.0\ref\BrowserApp.dll
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\bin\Debug\netstandard2.0\BrowserApp.pdb
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\BrowserApp.csprojAssemblyReference.cache
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\BrowserApp.AssemblyInfoInputs.cache
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\BrowserApp.AssemblyInfo.cs
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\BrowserApp.dll
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\ref\BrowserApp.dll
+D:\30_Prototype\04_Xamarin\BrowserApp\BrowserApp\obj\Debug\netstandard2.0\BrowserApp.pdb
